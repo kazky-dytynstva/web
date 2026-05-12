@@ -1,0 +1,32 @@
+/* ============================================================
+   FONTS — Казки Дитинства
+   Three fonts, one weight each.
+   Paths are relative to assets/css/ → ../../fonts/<Family>/
+   ============================================================ */
+
+/* ------ M PLUS Rounded 1c  (UI / body) ------ */
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  src: url('../../fonts/MPLUSRounded1c/MPLUSRounded1c-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ------ Shantell Sans  (display / headings) ------ */
+@font-face {
+  font-family: 'Shantell Sans';
+  src: url('../../fonts/ShantellSans/ShantellSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ------ Kotyhoroshko  (accent / decorative) ------ */
+@font-face {
+  font-family: 'Kotyhoroshko';
+  src: url('../../fonts/Kotyhoroshko/Kotyhoroshko-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
