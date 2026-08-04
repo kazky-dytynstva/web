@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ua.andriyantonov.tales.dev",
+      "sha256_cert_fingerprints": [
+        "58:82:69:44:3F:19:AE:55:A9:0F:B7:3A:EE:11:BA:3A:7D:1C:87:49:18:EF:7A:6E:DC:B1:27:C3:E5:3A:6E:8A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ua.andriyantonov.tales",
+      "sha256_cert_fingerprints": [
+        "REPLACE_WITH_PROD_SHA256_FINGERPRINT"
+      ]
+    }
+  }
+]

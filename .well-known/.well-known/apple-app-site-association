@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "comment": "Dev version of the app",
+        "appID": "LV9VG69R9U.ua.andriyantonov.tales.dev",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "comment": "Prod version of the app",
+        "appID": "LV9VG69R9U.ua.andriyantonov.tales",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
