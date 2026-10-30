@@ -106,6 +106,7 @@
   </style>
   <script>
     window.addEventListener('flutter-first-frame', function () {
+      performance.mark('flutter-first-frame');
       var el = document.getElementById('app-loading');
       if (el) el.remove();
     });
